@@ -8,10 +8,12 @@ Install `vcf-pwa-install-helpers`:
 npm i @vaadin-component-factory/vcf-pwa-install-helpers --save
 ```
 
+## Usage
+
 Once installed, import it in your application:
 
 ```js
-import '@vaadin-component-factory/vcf-pwa-install-helpers/vcf-pwa-install-helpers.js';
+import { hasPwaInstallPrompt openPwaInstallPrompt } from '@vaadin-component-factory/vcf-pwa-install-helpers/vcf-pwa-install-helpers.js';
 ```
 
 ## Contributing
