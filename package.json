@@ -19,7 +19,8 @@
     "polymer"
   ],
   "scripts": {
-    "lint": "eslint index.js"
+    "lint": "eslint index.js",
+    "publish": "node publish.js"
   },
   "husky": {
     "hooks": {
