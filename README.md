@@ -16,7 +16,7 @@ Once installed, import it in your application:
 import {
   hasPwaInstallPrompt,
   openPwaInstallPrompt
-} from '@vaadin-component-factory/vcf-pwa-install-helpers/vcf-pwa-install-helpers.js';
+} from '@vaadin-component-factory/vcf-pwa-install-helpers';
 ```
 
 ## Contributing
