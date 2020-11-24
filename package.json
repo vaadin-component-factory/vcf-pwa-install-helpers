@@ -1,6 +1,6 @@
 {
   "name": "@vaadin-component-factory/vcf-pwa-install-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vaadin Component Factory PWA Install Helpers",
   "main": "index.js",
   "author": "Vaadin Ltd",
